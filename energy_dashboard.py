@@ -256,4 +256,4 @@ with rc2:
 
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.markdown("---")
-st.caption("© 2026 Eagle Technologies LTD · Douglas · MSc Data Analytics · Istanbul")
+st.caption("© 2026 Douglas Kilyobas Titus · MSc Data Analytics")
